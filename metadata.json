@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence Dashboard",
+  "description": "A polished weather dashboard featuring city geocoding, 7-day forecasts, temperature trend charts, and planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
